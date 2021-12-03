@@ -2,8 +2,8 @@
 
 I'm an enthusiastic **Full Stack Software Engineer** with years of experience and eagerness to work with various new technologies!
 
-- 💻 I’m currently working on high performance millisecond response time application with redis and elasticsearch for business use case.
-- 👨🏻‍💻 Highly experienced on building and maintaining end to end systems in the cloud for business flow.
+- 💻 I’m currently working on high performance millisecond response time application with redis and elasticsearch.
+- 👨🏻‍💻 Highly experienced on building and maintaining end to end systems in the cloud.
 - 👨🏻‍💻 Experienced in scheduling and orchestrating business flows using Ariflow.
 
 <hr>
