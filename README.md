@@ -7,6 +7,8 @@ I'm an enthusiastic **Full Stack Software Engineer** with years of experience an
 - 👨🏻‍💻 Experienced in scheduling and orchestrating business flows using Ariflow.
 - 👨🏻‍💻 Experienced in building knowledgehub chatbots using vector databases and LLMs.
 - 👨🏻‍💻 Experienced in building React SPA and NextJs SSR apps.
+- 👨🏻‍💻 Experienced in designing and maintaining different versions of REST API.
+- 👨🏻‍💻 Experienced in building REST API servers with schema validations in Java and Python.
 
 <hr>
 
