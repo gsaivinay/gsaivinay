@@ -2,10 +2,11 @@
 
 I'm an enthusiastic **Full Stack Software Engineer** with years of experience and eagerness to work with various new technologies!
 
-- 💻 Experienced on creating high performance millisecond response time applications with redis and elasticsearch.
-- 👨🏻‍💻 Highly experienced on building and maintaining end to end systems in the AWS cloud.
+- 💻 Experienced on creating high performance millisecond response time applications with Redis cache and Elasticsearch/Opensearch.
+- 👨🏻‍💻 Highly experienced in building and maintaining end to end systems in the AWS cloud.
 - 👨🏻‍💻 Experienced in scheduling and orchestrating business flows using Ariflow.
 - 👨🏻‍💻 Experienced in building knowledgehub chatbots using vector databases and LLMs.
+- 👨🏻‍💻 Experienced in building React SPA and NextJs SSR apps.
 
 <hr>
 
